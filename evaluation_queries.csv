@@ -1,0 +1,32 @@
+query_id,query,expected_product_id,expected_product_name
+q01,Gaming laptop with RTX 4090 graphics,1899b088afb3708a,"ASUS ROG Strix Scar 18 2023 G834JY-N5012 Intel Core i9-13980HX/32GB/1TB SSD/RTX 4090/18"""
+q02,Gaming laptop with RTX 4080 graphics card,85d44d4f50fa4c59,"ASUS ROG Zephyrus M16 2023 GU604VZ-NM008W Intel Core i9-13900H/32GB/1TB SSD/RTX 4080/16"""
+q03,Laptop with RTX 4070 for gaming,0b4d81a20ba3f813,"MSI Stealth 17 Studio A13VG-017ES Intel Core i7-13700H/32GB/1TB SSD/RTX 4070/17.3"""
+q04,Budget gaming laptop with RTX 3050,cfd16c82bf2aab32,"HP Victus 16-E0094NS AMD Ryzen 5 5600H/16GB/512GB SSD/RTX 3050Ti/16.1"""
+q05,Laptop with RTX 3060 graphics card,378bd77a72a47b71,"Acer Nitro 5 AN517-55-75RS Intel Core i7-12700H/16GB/512GB SSD/RTX 3060/17.3"""
+q06,Laptop with GTX 1650 graphics,97c115cef46c9d2a,"Acer ConceptD 3 CN315-72G Intel Core i5-10300H/8GB/512GB SSD/GTX 1650/15.6"""
+q07,Laptop with 64GB RAM for heavy multitasking,6807284a9088eb4c,"MSI Raider GE76 Deluxe Edition 12UGS-279ES Intel Core i9-12900HK/64GB/2TB SSD/RTX 3070Ti/17.3"""
+q08,Laptop with 32GB RAM,230de8dbc04acea9,"LG Gram 16Z90Q-G.AP7BB Intel Evo Core i7-1260P/32GB/2TB SSD/16"""
+q09,Laptop with 24GB RAM,bec0d595625608c6,"Apple MacBook Air (Early 2026) Apple M5 Chip 24GB RAM, 1TB SSD 15.3 Inch Liquid Retina Display Starlight Laptop #MDVF4xx/A"
+q10,Budget laptop with 4GB RAM,fa445b63423eec3f,"Lenovo 100e Intel Celeron N4020/4GB/128GB SSD/11.6"""
+q11,Lenovo laptop under 100000 BDT,1103618ecee25945,"Lenovo V15 G2 ALC AMD Ryzen 3 5300U/8 GB/256 GB SSD/15.6"""
+q12,ASUS laptop with RTX graphics under 200000 BDT,7192b06ca63901fa,"ASUS VivoBook Pro 15 OLED K3500PC-L1293 Intel Core i5-11300H/16 GB/512GB SSD/RTX 3050/15.6"""
+q13,HP laptop with dedicated GPU,278684dfe678b2e3,"HP Victus 16-D1025NS Intel Core i7-12700H/16GB/512GB SSD/RTX 3050 Ti/16.1"""
+q14,MSI gaming laptop with RTX 3070,09872bde0964000c,MSI GP76 Leopard 10UG-055XPT Intel Core i7-10870H/16GB/1TB SSD/RTX 3070/17.3'' (PT)
+q15,Acer laptop under 60000 BDT,ff3b2ad5d3a60ac1,Acer Aspire 5 A515-57 Intel Core i5-1235U/8GB/512GB SSD/15.6'' (PT)
+q16,Apple MacBook laptop,f29d8b9ef9f3cf9f,Apple MacBook Pro (Early 2026) Apple M5 Pro Chip 24GB RAM 2TB SSD 14.2 Inch Liquid Retina XDR Display Silver Laptop
+q17,Dell laptop with 16GB RAM,8072347ac4648f7a,"Dell Latitude 3520 Intel Core i7-1165G7/16GB/512GB SSD/15.6"" (PT)"
+q18,Microsoft Surface laptop,6f817304a96f9219,"Microsoft Surface Pro X Microsoft SQ1/16GB/512GB SSD/13"" Táctil"
+q19,Gigabyte gaming laptop,0735152b71e9a395,"Gigabyte AORUS 15X ASF-83ES654SH Intel Core i7-13700HX/16GB/1TB SSD/RTX 4070/15.6"""
+q20,Razer laptop with RTX graphics,d6c433a1d638df9a,"Razer Blade 15 QHD Intel Core i7-12800H/16GB/1TB SSD/RTX 3060/15.6"""
+q21,Cheapest laptop under 30000 BDT,9aaeba5f86f74d74,"Lenovo ThinkPad L450 Intel Core i5-4300U/8GB/256GB SSD/14"""
+q22,Laptop between 400000 and 500000 BDT high end,67fb4e386bcb6529,"MSI Raider GE77HX 12UGS-019ES Intel Core i7-12800HX/32GB/1TB SSD/RTX 3080Ti/17.3"""
+q23,Most expensive high-end gaming laptop,76e593709b614b5b,"MSI Titan GT77 HX 13VI-006ES Intel Core i9-13980HX/128GB/2TB SSD/RTX 4090/17.3"" + Bundle Gaming"
+q24,Laptop with Intel Core i9 processor,7dea8d9552c16ed4,"ASUS ROG Strix Scar 16 2023 G634JY-NM014W Intel Core i9-13980HX/32GB/2TB SSD/RTX 4090/16"""
+q25,Laptop with Intel Core i5 processor and integrated graphics,205b54654e801ac2,"Lenovo ThinkPad T14 Gen 3 Intel Core i5-1235U/8GB/256GB SSD/14"""
+q26,Laptop with AMD Ryzen processor,849386710610f0fc,"Lenovo ThinkPad T14 Gen 1 AMD Ryzen 7 PRO 4750U/16GB/512GB SSD/14"""
+q27,Touchscreen laptop,cd623b4006b40a00,"Medion Erazer Crawler E40 Intel Core i5-13420H/16GB/1TB SSD/RTX 4050/15.6"""
+q28,2-in-1 convertible laptop,8086f15a07db480d,Lenovo Yoga Slim 7i Ultra 14IPH11 Intel Core Ultra 7 355 32GB RAM 1TB SSD 2.8K Touch Display Win 11 Cosmic Blue Laptop
+q29,Business laptop with long battery life,68525de7abb96101,ASUS Vivobook 14 M1407KA AMD Ryzen AI 5 330 16GB DDR5 RAM 512GB SSD 14 Inch FHD+ WUXGA Display Cool Silver Laptop
+q30,Ultrabook laptop for students,e16c23e249775f42,Asus ExpertBook P1 P1503CVA Intel Core 5 210H 8GB RAM 512GB SSD 15.6 Inch FHD LED Display Misty Grey Laptop
+q31,Laptop with 1TB SSD storage,9e93bd230e5c10e0,Lenovo LOQ 15AHP10 AMD Ryzen 7 250 16GB RAM 1TB SSD 15.6 Inch FHD Display Luna Gray Gaming Laptop
